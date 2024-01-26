@@ -14,7 +14,7 @@
 #### HMTL-CSS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,tailwind, bootstrap, css" />
+    <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,css" />
   </a>
 </p>
 
