@@ -28,13 +28,7 @@
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeU2030&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeU2030&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeU2030&theme=holi-theme">
-</p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeU2030&show_icons=true&theme=dark)](https://github.com/GeorgeU2030/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeU2030&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)
